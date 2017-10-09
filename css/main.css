@@ -8,6 +8,6 @@ html {
 }
 
 .btn .btn-ghost {
-  border-radius: 3px solid #90ccc3;
+  border: 3px solid #90ccc3;
   color: #fff;
 }

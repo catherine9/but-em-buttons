@@ -6,3 +6,8 @@ html {
 .banner {
   background-image: url("../images/starfield.png");
 }
+
+.btn .btn-ghost {
+  border-radius: 3px solid #90ccc3;
+  color: #fff;
+}

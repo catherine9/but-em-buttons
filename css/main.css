@@ -4,7 +4,8 @@ html {
 }
 
 .banner {
-  padding: 16em;
+  padding-top: 15em;
+  padding-bottom: 30em;
   background-image: url("../images/starfield.png");
 }
 
